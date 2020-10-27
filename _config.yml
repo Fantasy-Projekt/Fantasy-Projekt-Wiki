@@ -1,9 +1,9 @@
 remote_theme: Drassil/git-wiki-theme@master
 # (string) Title of your wiki
-title: "git-wiki-skeleton"
+title: "Fantasy-Projekt-Wiki"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
 # with your folder name, otherwise leave it empty
-baseurl: "/git-wiki-skeleton"
+baseurl: "/Fantasy-Projekt-Wiki"
 # (string) Description of your wiki
 description: 
 # (boolean) Enable/disable wiki page list in sidebar
@@ -32,7 +32,7 @@ google_analytics:
 wiki_folder: "wiki"
 # (boolean) if you're using github wiki as submodule then this config
 # must be enabled to allow tool buttons to work properly
-use_github_wiki: false
+use_github_wiki: true
 # (boolean) Enable "Edit with Prose.io" button in tools, it's a 3rd party
 # service to edit github markdown pages easily
 use_prose_io: true
