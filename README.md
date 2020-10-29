@@ -1,3 +1,3 @@
 # Fantasy-Project-Wiki
 
-Willkommewn zum Fantasy-Projekt-Wiki
+Willkommen zum Fantasy-Projekt-Wiki
